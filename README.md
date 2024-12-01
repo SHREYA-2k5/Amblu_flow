@@ -4,7 +4,7 @@ Emergency Response System 🚑
 Description 📑
 
 
-A mobile application built using HTML, CSS, JavaScript, and Google API that notifies
+A Web application built using HTML, CSS, JavaScript, and Google API that notifies
 patients of nearby hospitals and the estimated time of arrival of the ambulance. 
 It provides hospitals and ambulance drivers with critical information such as the 
 patient's location and enables effective GPS route management via real-time traffic 
@@ -97,4 +97,4 @@ Google API Keys 🔑: Used to access various Google services programmatically, s
 
 📱 User-Friendly Experience
 
-This app is designed to be user-friendly, ensuring a seamless experience for both patients and ambulance drivers. The intuitive interface and real-time updates make it easy to navigate and use, even in high-stress situations.
+This is designed to be user-friendly, ensuring a seamless experience for both patients and ambulance drivers. The intuitive interface and real-time updates make it easy to navigate and use, even in high-stress situations.
